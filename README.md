@@ -1,3 +1,3 @@
 # Awesome Certified Kubernetes Administrator
 
-- [Curriculum](https://github.com/cncf/curriculum): https://github.com/cncf/curriculum
+- [Curriculum](https://github.com/cncf/curriculum): Open Source Curriculum for CNCF Certification Courses 
