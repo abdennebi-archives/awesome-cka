@@ -8,6 +8,9 @@
 
 ## Articles
 
+### Etcd
+- [Play with Etcd](http://play.etcd.io/home)
+
 ### Security
 
 - [Kubernetes security guide](https://sysdig.com/blog/kubernetes-security-guide/). A series of articles by [Mateo Burillo](https://twitter.com/mateobur) in four parts:
