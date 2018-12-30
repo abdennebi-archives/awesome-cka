@@ -10,6 +10,7 @@
 
 ### Etcd
 - [Play with Etcd](http://play.etcd.io/home)
+- [Interacting with etcd](https://coreos.com/etcd/docs/latest/dev-guide/interacting_v3.html)
 - [etcdctl](https://github.com/etcd-io/etcd/tree/master/etcdctl) examples
 
 ### Security
